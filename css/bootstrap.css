@@ -5485,7 +5485,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: #888
+    background-color: rgb(169, 10, 10)
 }
 
 .navbar-default .navbar-collapse,
