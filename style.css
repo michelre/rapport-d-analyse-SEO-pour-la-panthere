@@ -195,7 +195,7 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-    color: rgba(0, 0, 0, .5);
+    color: rgb(0, 0, 0);
 }
 
 .d-bloc .panel button:hover,
@@ -655,7 +655,7 @@ a {
     text-decoration: none;
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color:  #0d0c0c!important;
 }
 
 .container {
@@ -681,7 +681,7 @@ a {
 }
 
 p {
-    font-size: 14px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
@@ -710,7 +710,7 @@ p {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 20px;
     line-height: 1.4em;
 }
 
